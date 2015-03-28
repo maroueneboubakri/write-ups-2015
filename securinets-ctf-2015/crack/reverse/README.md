@@ -11,7 +11,7 @@
 
 ## Write-up
 
-(TODO)
+http://maroueneboubakri.ctf.tn/securinets-ctf-2015-quals-re250-task-writeup/
 
 ## Other write-ups and resources
 
